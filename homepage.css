@@ -1,0 +1,48 @@
+.navbar-nav {
+    width: 100%;
+    text-align: center;
+    
+    color:white;
+    > li {
+      float:none;
+      display: inline-block;
+    }
+  }
+
+.content
+{
+  background-color:white;
+  /*margin-left:2%;
+  margin-right:2%;*/
+}
+
+h3
+{
+  color: #f29a12 !important;
+  text-align: left;
+}
+
+.story
+{
+  padding: 40px 0px;
+    background-color:#00C851;
+    color: #fff
+}
+
+.sminfo
+{
+  padding: 40px 0px;
+  background-color: #cccccc;
+}
+footer
+{
+  background-color:black;
+  padding:1%;
+  color:white !important;
+}
+
+body
+{ 
+background-image:url("https://scontent.fdel5-1.fna.fbcdn.net/v/t1.0-9/44190230_866740563715931_6702452007648624640_o.jpg?_nc_cat=101&oh=e5c0c9dec56921d408cfa08b7858dc11&oe=5C4C32BE"); 
+background-repeat:repeat;
+}
